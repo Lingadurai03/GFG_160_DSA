@@ -19,5 +19,5 @@ I'm tracking my progress daily and updating the problems I solve.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/Lingadurai03/GFG_160_DSA
    ```
