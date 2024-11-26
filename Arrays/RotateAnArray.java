@@ -81,7 +81,8 @@ public class RotateAnArray {
         int[] arr = { 1, 2, 3, 4, 5 };
         int n = arr.length;
 
-        int d = 2;
+        int d = 2 % arr.length;
+        ;
         RotateAnArray ra = new RotateAnArray();
         ra.reverse(arr, 0, d - 1);
         ra.reverse(arr, d, n - 1);
