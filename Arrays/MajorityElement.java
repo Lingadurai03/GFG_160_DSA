@@ -1,8 +1,5 @@
 package Arrays;
 
-import java.lang.reflect.Array;
-import java.util.ArrayList;
-
 // Majority Element II
 // Difficulty: MediumAccuracy: 48.1%Submissions: 93K+Points: 4
 // You are given an array of integer arr[] where each number represents a vote to a candidate. Return the candidates that have votes greater than one-third of the total votes, If there's not a majority vote, return an empty array. 
