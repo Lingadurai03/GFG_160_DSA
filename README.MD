@@ -7,15 +7,16 @@ I'm tracking my progress daily and updating the problems I solve.
 
 ## **Progress**
 
-| Date       | Category | Problems Solved                                              |
-| ---------- | -------- | ------------------------------------------------------------ |
-| 2024-11-24 | Array    | - [Second Largest Number](./Arrays/SecondLargestNumber.java) |
-| 2024-11-24 | Array    | - [Move Zeros to end](./Arrays/MoveZerosToEnd.java)          |
-| 2024-11-25 | Array    | - [Reverse An array](./Arrays/ReverseAnArray.java)           |
-| 2024-11-25 | Array    | - [Rotate An array](./Arrays/RotateAnArray.java)             |
-| 2024-11-25 | Array    | - [Next Permutaion](./Arrays/NextPermutation.java)           |
-| 2024-11-25 | Array    | - [Majority Elements](./Arrays/MajorityElement.java)         |
-| 2024-11-25 | Array    | - [Split Array](./Arrays/BonusProblems/SplitArray.java)      |
+| Date       | Category | Problems Solved                                                                           |
+| ---------- | -------- | ----------------------------------------------------------------------------------------- |
+| 2024-11-24 | Array    | - [Second Largest Number](./Arrays/SecondLargestNumber.java)                              |
+| 2024-11-24 | Array    | - [Move Zeros to end](./Arrays/MoveZerosToEnd.java)                                       |
+| 2024-11-25 | Array    | - [Reverse An array](./Arrays/ReverseAnArray.java)                                        |
+| 2024-11-25 | Array    | - [Rotate An array](./Arrays/RotateAnArray.java)                                          |
+| 2024-11-25 | Array    | - [Next Permutaion](./Arrays/NextPermutation.java)                                        |
+| 2024-11-25 | Array    | - [Majority Elements](./Arrays/MajorityElement.java)                                      |
+| 2024-11-25 | Array    | - [Split Array](./Arrays/BonusProblems/SplitArray.java)                                   |
+| 2024-11-25 | Array    | - [Repetitive Addition Of Digits](./Arrays/BonusProblems/RepetitiveAdditionOfDigits.java) |
 
 ## **How to Run the Solutions**
 
