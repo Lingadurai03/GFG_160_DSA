@@ -15,6 +15,7 @@ I'm tracking my progress daily and updating the problems I solve.
 | 2024-11-25 | Array    | - [Rotate An array](./Arrays/RotateAnArray.java)             |
 | 2024-11-25 | Array    | - [Next Permutaion](./Arrays/NextPermutation.java)           |
 | 2024-11-25 | Array    | - [Majority Elements](./Arrays/MajorityElement.java)         |
+| 2024-11-25 | Array    | - [Split Array](./Arrays/BonusProblems/SplitArray.java)      |
 
 ## **How to Run the Solutions**
 
