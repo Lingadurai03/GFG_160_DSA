@@ -17,6 +17,8 @@ I'm tracking my progress daily and updating the problems I solve.
 | 2024-11-25 | Array    | - [Majority Elements](./Arrays/MajorityElement.java)                                      |
 | 2024-11-25 | Array    | - [Split Array](./Arrays/BonusProblems/SplitArray.java)                                   |
 | 2024-11-25 | Array    | - [Repetitive Addition Of Digits](./Arrays/BonusProblems/RepetitiveAdditionOfDigits.java) |
+| 2024-11-25 | Array    | - [Split Array](./Arrays/BonusProblems/SplitArray.java)                                   |
+| 2024-11-25 | Array    | - [Maximize Number of 1's](./Arrays/BonusProblems/MaximizeNumberOf1s.java)                |
 
 ## **How to Run the Solutions**
 
