@@ -29,7 +29,7 @@ public class StockBuyandSell {
 
     }
 
-    // Approch one
+    // Approach one
     // public int findProfit(int[] arr) {
     // int profit = 0;
     // int expense = 0;
@@ -54,7 +54,7 @@ public class StockBuyandSell {
 
     // }
 
-    // Approch two
+    // Approach two
 
     public int findProfit(int[] arr) {
         int profit = 0;
