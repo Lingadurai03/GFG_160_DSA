@@ -1,7 +1,5 @@
 package Arrays.BonusProblems;
 
-import Arrays.PrintArray;
-
 // Maximize Number of 1's
 // Difficulty: MediumAccuracy: 39.46%Submissions: 51K+Points: 4
 // Given a binary array arr[] (containing only 0s and 1s) and an integer k, you are allowed to flip at most k 0s to 1s. Find the maximum number of consecutive 1's that can be obtained in the array after performing the operation at most k times.
