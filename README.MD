@@ -17,6 +17,7 @@ I'm tracking my progress daily and updating the problems I solve.
 | 2024-11-25 | Array    | - [Majority Elements](./Arrays/MajorityElement.java)                                      |
 | 2024-11-25 | Array    | - [Stock Buy and Sell](./Arrays/StockBuyandSell.java)                                     |
 | 2024-11-25 | Array    | - [Stock Buy and Sell Max One](./Arrays/StocksBuyAndSellMaxOne.java)                      |
+| 2024-11-25 | Array    | - [Minimize The Height](./Arrays/MinimizeTheHeight.java)                                  |
 | 2024-11-25 | Array(B) | - [Repetitive Addition Of Digits](./Arrays/BonusProblems/RepetitiveAdditionOfDigits.java) |
 | 2024-11-25 | Array(B) | - [Split Array](./Arrays/BonusProblems/SplitArray.java)                                   |
 | 2024-11-25 | Array(B) | - [Maximize Number of 1's](./Arrays/BonusProblems/MaximizeNumberOf1s.java)                |
