@@ -21,6 +21,7 @@ I'm tracking my progress daily and updating the problems I solve.
 | 2024-11-25 | Array    | - [Maximum SubArray sum](./Arrays/MaximumSubarraySum.java)                                |
 | 2024-11-25 | Array    | - [Maximum Product](./Arrays/MaximumProduct.java)                                         |
 | 2024-11-25 | Array    | - [Max Circular Sub Array](./Arrays/MaxCircularSubArray.java)                             |
+| 2024-11-25 | Array    | - [Smallest Positive Number](./Arrays/SmallestPositiveNumber.java)                        |
 | 2024-11-25 | Array(B) | - [Repetitive Addition Of Digits](./Arrays/BonusProblems/RepetitiveAdditionOfDigits.java) |
 | 2024-11-25 | Array(B) | - [Split Array](./Arrays/BonusProblems/SplitArray.java)                                   |
 | 2024-11-25 | Array(B) | - [Maximize Number of 1's](./Arrays/BonusProblems/MaximizeNumberOf1s.java)                |
