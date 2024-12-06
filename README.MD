@@ -29,9 +29,10 @@ I'm tracking my progress daily and updating the problems I solve.
 
 ## **String**
 
-| Date       | Problems Solved                                  |
-| ---------- | ------------------------------------------------ |
-| 2024-11-05 | - [Implement ATIO](./Strings/ImplementAtoi.java) |
+| Date       | Problems Solved                                        |
+| ---------- | ------------------------------------------------------ |
+| 2024-11-05 | - [Implement ATIO](./Strings/ImplementAtoi.java)       |
+| 2024-11-06 | - [Add Binary String](./Strings/AddBinaryStrings.java) |
 
 ## **How to Run the Solutions**
 
