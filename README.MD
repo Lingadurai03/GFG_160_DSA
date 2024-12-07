@@ -33,6 +33,7 @@ I'm tracking my progress daily and updating the problems I solve.
 | ---------- | ------------------------------------------------------ |
 | 2024-11-05 | - [Implement ATIO](./Strings/ImplementAtoi.java)       |
 | 2024-11-06 | - [Add Binary String](./Strings/AddBinaryStrings.java) |
+| 2024-11-06 | - [Anagram](./Strings/Anagram.java)                    |
 
 ## **How to Run the Solutions**
 
