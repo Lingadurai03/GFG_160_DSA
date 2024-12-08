@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 // Search Pattern (KMP-Algorithm)
-// Difficulty: MediumAccuracy: 45.04%Submissions: 94K+Points: 4
+// Difficulty: Medium
+// Accuracy: 45.04%Submissions: 94K+Points: 4
 // Given two strings, one is a text string txt and the other is a pattern string pat. The task is to print the indexes of all the occurrences of the pattern string in the text string. Use 0-based indexing while returning the indices. 
 // Note: Return an empty list in case of no occurrences of pattern.
 
@@ -29,31 +30,94 @@ public class StringSearchPattern {
     public static void main(String[] args) {
 
         StringSearchPattern ssp = new StringSearchPattern();
-        System.out.println(ssp.findPatternIdx("abcab", "ab"));
+        System.out.println(ssp.findPatternIdx("aabaacaadaabaaba", "aaba"));
 
     }
 
-    // Approach 1 (Brute force)
+    // // Approach 1 (Brute force)
+
+    // public List<Integer> findPatternIdx(String str, String ptn) {
+
+    // List<Integer> indices = new ArrayList<>();
+    // int n = str.length();
+    // int m = ptn.length();
+
+    // for (int i = 0; i <= n - m; i++) {
+
+    // int j;
+    // for (j = 0; j < m; j++) {
+    // if (str.charAt(i + j) != ptn.charAt(j)) {
+    // break;
+    // }
+    // }
+
+    // if (j == m) {
+    // indices.add(i);
+    // }
+    // }
+    // return indices;
+    // }
+
+    // Approach 2 KPN
 
     public List<Integer> findPatternIdx(String str, String ptn) {
 
-        List<Integer> indices = new ArrayList<>();
         int n = str.length();
         int m = ptn.length();
 
-        for (int i = 0; i <= n - m; i++) {
+        int[] lps = new int[m];
 
-            int j;
-            for (j = 0; j < m; j++) {
-                if (str.charAt(i + j) != ptn.charAt(j)) {
-                    break;
+        this.constructLPS(ptn, lps);
+
+        List<Integer> indices = new ArrayList<>();
+
+        int i = 0;
+        int j = 0;
+
+        while (i < n) {
+            if (str.charAt(i) == ptn.charAt(j)) {
+                i++;
+                j++;
+
+                if (j == m) {
+                    indices.add(i - j);
+                    j = lps[j - 1];
+                    System.out.println(j);
+                }
+            } else {
+                if (j != 0) {
+                    j = lps[j - 1];
+                } else {
+                    i++;
+                }
+            }
+        }
+
+        return indices;
+    }
+
+    public void constructLPS(String pat, int[] lps) {
+
+        int len = 0;
+
+        lps[len] = 0;
+
+        int i = 1;
+
+        while (i < lps.length) {
+            if (pat.charAt(len) == pat.charAt(i)) {
+                lps[i] = len + 1;
+                i++;
+                len++;
+            } else {
+                if (len != 0) {
+                    len = lps[len - 1];
+                } else {
+                    lps[i] = 0;
+                    i++;
                 }
             }
 
-            if (j == m) {
-                indices.add(i);
-            }
         }
-        return indices;
     }
 }
