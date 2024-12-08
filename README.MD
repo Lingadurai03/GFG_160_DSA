@@ -29,12 +29,13 @@ I'm tracking my progress daily and updating the problems I solve.
 
 ## **String**
 
-| Date       | Problems Solved                                         |
-| ---------- | ------------------------------------------------------- |
-| 2024-11-05 | - [Implement ATIO](./Strings/ImplementAtoi.java)        |
-| 2024-11-06 | - [Add Binary String](./Strings/AddBinaryStrings.java)  |
-| 2024-11-06 | - [Anagram](./Strings/Anagram.java)                     |
-| 2024-11-06 | - [Non Repeating Char](./Strings/NonRepeatingChar.java) |
+| Date       | Problems Solved                                                  |
+| ---------- | ---------------------------------------------------------------- |
+| 2024-11-05 | - [Implement ATIO](./Strings/ImplementAtoi.java)                 |
+| 2024-11-06 | - [Add Binary String](./Strings/AddBinaryStrings.java)           |
+| 2024-11-07 | - [Anagram](./Strings/Anagram.java)                              |
+| 2024-11-07 | - [Non Repeating Char](./Strings/NonRepeatingChar.java)          |
+| 2024-11-07 | - [String searching Pattern](./Strings/StringSearchPattern.java) |
 
 ## **How to Run the Solutions**
 
