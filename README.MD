@@ -18,25 +18,26 @@ I'm tracking my progress daily and updating the problems I solve.
 | 2024-11-28 | - [Stock Buy and Sell](./Arrays/StockBuyandSell.java)                                     |
 | 2024-11-29 | - [Stock Buy and Sell Max One](./Arrays/StocksBuyAndSellMaxOne.java)                      |
 | 2024-11-30 | - [Minimize The Height](./Arrays/MinimizeTheHeight.java)                                  |
-| 2024-11-01 | - [Maximum SubArray sum](./Arrays/MaximumSubarraySum.java)                                |
-| 2024-11-01 | - [Maximum Product](./Arrays/MaximumProduct.java)                                         |
-| 2024-11-02 | - [Max Circular Sub Array](./Arrays/MaxCircularSubArray.java)                             |
-| 2024-11-03 | - [Smallest Positive Number](./Arrays/SmallestPositiveNumber.java)                        |
-| 2024-11-03 | - [Repetitive Addition Of Digits](./Arrays/BonusProblems/RepetitiveAdditionOfDigits.java) |
-| 2024-11-04 | - [Split Array](./Arrays/BonusProblems/SplitArray.java)                                   |
-| 2024-11-04 | - [Maximize Number of 1's](./Arrays/BonusProblems/MaximizeNumberOf1s.java)                |
-| 2024-11-05 | - [Ants Fall Out Of A Plank](./Arrays/BonusProblems/AntsFallOutOfAPlank.java)             |
+| 2024-12-01 | - [Maximum SubArray sum](./Arrays/MaximumSubarraySum.java)                                |
+| 2024-12-01 | - [Maximum Product](./Arrays/MaximumProduct.java)                                         |
+| 2024-12-02 | - [Max Circular Sub Array](./Arrays/MaxCircularSubArray.java)                             |
+| 2024-12-03 | - [Smallest Positive Number](./Arrays/SmallestPositiveNumber.java)                        |
+| 2024-12-03 | - [Repetitive Addition Of Digits](./Arrays/BonusProblems/RepetitiveAdditionOfDigits.java) |
+| 2024-12-04 | - [Split Array](./Arrays/BonusProblems/SplitArray.java)                                   |
+| 2024-12-04 | - [Maximize Number of 1's](./Arrays/BonusProblems/MaximizeNumberOf1s.java)                |
+| 2024-12-05 | - [Ants Fall Out Of A Plank](./Arrays/BonusProblems/AntsFallOutOfAPlank.java)             |
 
 ## **String**
 
 | Date       | Problems Solved                                                                          |
 | ---------- | ---------------------------------------------------------------------------------------- |
-| 2024-11-05 | - [Implement ATIO](./Strings/ImplementAtoi.java)                                         |
-| 2024-11-06 | - [Add Binary String](./Strings/AddBinaryStrings.java)                                   |
-| 2024-11-07 | - [Anagram](./Strings/Anagram.java)                                                      |
-| 2024-11-08 | - [Non Repeating Char](./Strings/NonRepeatingChar.java)                                  |
-| 2024-11-08 | - [String searching Pattern](./Strings/StringSearchPattern.java)                         |
-| 2024-11-08 | - [Minimum Character Add for Palindrom](./Strings/MinimumCharacterAddForPalindrome.java) |
+| 2024-12-05 | - [Implement ATIO](./Strings/ImplementAtoi.java)                                         |
+| 2024-12-06 | - [Add Binary String](./Strings/AddBinaryStrings.java)                                   |
+| 2024-12-07 | - [Anagram](./Strings/Anagram.java)                                                      |
+| 2024-12-08 | - [Non Repeating Char](./Strings/NonRepeatingChar.java)                                  |
+| 2024-12-09 | - [String searching Pattern](./Strings/StringSearchPattern.java)                         |
+| 2024-12-10 | - [Minimum Character Add for Palindrom](./Strings/MinimumCharacterAddForPalindrome.java) |
+| 2024-12-17 | - [Strings Rotations of Each Other](./Strings/StringsRotationsofEachOther.java)          |
 
 ## **How to Run the Solutions**
 
