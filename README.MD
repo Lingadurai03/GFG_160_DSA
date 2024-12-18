@@ -39,6 +39,7 @@ I'm tracking my progress daily and updating the problems I solve.
 | 2024-12-10 | - [Minimum Character Add for Palindrom](./Strings/MinimumCharacterAddForPalindrome.java) |
 | 2024-12-17 | - [Strings Rotations of Each Other](./Strings/StringsRotationsofEachOther.java)          |
 | 2024-12-17 | - [Fizz Buzz](./Strings/BonusProblems/FizzBuzz.java)                                     |
+| 2024-12-17 | - [Camel Case Pattern Matching](./Strings/BonusProblems/CamelCasePatternMatching.java)   |
 
 ## **How to Run the Solutions**
 
