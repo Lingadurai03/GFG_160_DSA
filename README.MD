@@ -29,18 +29,19 @@ I'm tracking my progress daily and updating the problems I solve.
 
 ## **String**
 
-| Date       | Problems Solved                                                                          |
-| ---------- | ---------------------------------------------------------------------------------------- |
-| 2024-12-05 | - [Implement ATIO](./Strings/ImplementAtoi.java)                                         |
-| 2024-12-06 | - [Add Binary String](./Strings/AddBinaryStrings.java)                                   |
-| 2024-12-07 | - [Anagram](./Strings/Anagram.java)                                                      |
-| 2024-12-08 | - [Non Repeating Char](./Strings/NonRepeatingChar.java)                                  |
-| 2024-12-09 | - [String searching Pattern](./Strings/StringSearchPattern.java)                         |
-| 2024-12-10 | - [Minimum Character Add for Palindrom](./Strings/MinimumCharacterAddForPalindrome.java) |
-| 2024-12-17 | - [Strings Rotations of Each Other](./Strings/StringsRotationsofEachOther.java)          |
-| 2024-12-18 | - [Fizz Buzz](./Strings/BonusProblems/FizzBuzz.java)                                     |
-| 2024-12-18 | - [Camel Case Pattern Matching](./Strings/BonusProblems/CamelCasePatternMatching.java)   |
-| 2024-12-18 | - [Camel Case Pattern Matching](./Strings/BonusProblems/PalindromeSentence.java)         |
+| Date       | Problems Solved                                                                                 |
+| ---------- | ----------------------------------------------------------------------------------------------- |
+| 2024-12-05 | - [Implement ATIO](./Strings/ImplementAtoi.java)                                                |
+| 2024-12-06 | - [Add Binary String](./Strings/AddBinaryStrings.java)                                          |
+| 2024-12-07 | - [Anagram](./Strings/Anagram.java)                                                             |
+| 2024-12-08 | - [Non Repeating Char](./Strings/NonRepeatingChar.java)                                         |
+| 2024-12-09 | - [String searching Pattern](./Strings/StringSearchPattern.java)                                |
+| 2024-12-10 | - [Minimum Character Add for Palindrom](./Strings/MinimumCharacterAddForPalindrome.java)        |
+| 2024-12-17 | - [Strings Rotations of Each Other](./Strings/StringsRotationsofEachOther.java)                 |
+| 2024-12-18 | - [Fizz Buzz](./Strings/BonusProblems/FizzBuzz.java)                                            |
+| 2024-12-18 | - [Camel Case Pattern Matching](./Strings/BonusProblems/CamelCasePatternMatching.java)          |
+| 2024-12-18 | - [Camel Case Pattern Matching](./Strings/BonusProblems/PalindromeSentence.java)                |
+| 2024-12-20 | - [Minimum Repeat To Make Substring](./Strings/BonusProblems/MinimumRepeatToMakeSubstring.java) |
 
 ## **How to Run the Solutions**
 
