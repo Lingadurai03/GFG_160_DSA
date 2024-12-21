@@ -42,6 +42,7 @@ I'm tracking my progress daily and updating the problems I solve.
 | 2024-12-18 | - [Camel Case Pattern Matching](./Strings/BonusProblems/CamelCasePatternMatching.java)          |
 | 2024-12-18 | - [Camel Case Pattern Matching](./Strings/BonusProblems/PalindromeSentence.java)                |
 | 2024-12-20 | - [Minimum Repeat To Make Substring](./Strings/BonusProblems/MinimumRepeatToMakeSubstring.java) |
+| 2024-12-20 | - [Longest Prefix Suffix](./Strings/BonusProblems/LongestPrefixSuffix.java)                     |
 
 ## **How to Run the Solutions**
 
