@@ -45,6 +45,12 @@ I'm tracking my progress daily and updating the problems I solve.
 | 2024-12-20 | - [Longest Prefix Suffix](./Strings/BonusProblems/LongestPrefixSuffix.java)                     |
 | 2024-12-21 | - [Integer To Words](./Strings/BonusProblems/IntegerToWords.java)                               |
 
+## **Sorting**
+
+| Date       | Problems Solved                                     |
+| ---------- | --------------------------------------------------- |
+| 2024-12-22 | - [Sort 0s 1s and 2s](./Sorting/Sort0s1sand2s.java) |
+
 ## **How to Run the Solutions**
 
 1. Clone the repository:
