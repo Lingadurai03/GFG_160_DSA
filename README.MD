@@ -47,10 +47,11 @@ I'm tracking my progress daily and updating the problems I solve.
 
 ## **Sorting**
 
-| Date       | Problems Solved                                     |
-| ---------- | --------------------------------------------------- |
-| 2024-12-22 | - [Sort 0s 1s and 2s](./Sorting/Sort0s1sand2s.java) |
-| 2024-12-22 | - [Find H Index](./Sorting/FindHIndex.java)         |
+| Date       | Problems Solved                                      |
+| ---------- | ---------------------------------------------------- |
+| 2024-12-22 | - [Sort 0s 1s and 2s](./Sorting/Sort0s1sand2s.java)  |
+| 2024-12-22 | - [Find H Index](./Sorting/FindHIndex.java)          |
+| 2024-12-22 | - [Count Inversions](./Sorting/CountInversions.java) |
 
 ## **How to Run the Solutions**
 
