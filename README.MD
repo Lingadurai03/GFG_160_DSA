@@ -55,6 +55,7 @@ I'm tracking my progress daily and updating the problems I solve.
 | 2024-12-23 | - [Overlapping Intervals](./Sorting/OverlappingIntervals.java)        |
 | 2024-12-24 | - [Insert Interval](./Sorting/InsertInterval.java)                    |
 | 2024-12-24 | - [Non Overlapping Intervals](./Sorting/NonOverlappingIntervals.java) |
+| 2024-12-24 | - [Merge Without Extra Space](./Sorting/MergeWithoutExtraSpace.java)  |
 
 ## **How to Run the Solutions**
 
