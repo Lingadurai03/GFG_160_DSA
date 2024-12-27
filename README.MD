@@ -68,6 +68,7 @@ I'm tracking my progress daily and updating the problems I solve.
 | 2024-12-27 | - [Number Of Occurrence](./Searching/NumberOfOccurrence.java)                   |
 | 2024-12-27 | - [Sorted and Rotated Minimum](./Searching/SortedAndRotatedMinimum.java)        |
 | 2024-12-27 | - [Search In Rotated Sorted Array](./Searching/SearchInRotatedSortedArray.java) |
+| 2024-12-27 | - [Peak Element](./Searching/PeakElement.java)                                  |
 
 ## **How to Run the Solutions**
 
