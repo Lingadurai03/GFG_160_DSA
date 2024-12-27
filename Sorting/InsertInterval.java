@@ -1,9 +1,6 @@
 package Sorting;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-
-import Arrays.PrintArray;
 
 // Insert Interval
 // Difficulty: MediumAccuracy: 50.61%Submissions: 32K+Points: 4

@@ -1,9 +1,5 @@
 package Sorting;
 
-import java.util.Arrays;
-
-import Arrays.PrintArray;
-
 // Find H-Index
 // Difficulty: MediumAccuracy: 53.4%Submissions: 30K+Points: 4
 // Given an integer array citations[], where citations[i] is the number of citations a researcher received for the ith paper. The task is to find the H-index.

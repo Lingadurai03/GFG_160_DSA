@@ -1,7 +1,5 @@
 package Sorting.BonusProblems;
 
-import Arrays.PrintArray;
-
 // Minimum sum
 // Difficulty: MediumAccuracy: 17.14%Submissions: 143K+Points: 4
 // Given an array arr[] such that each element is in the range [0, 9] find the minimum possible sum of two numbers formed using the elements of the array. All digits in the given array must be used to form the two numbers. Return a string without leading zeroes.
