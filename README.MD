@@ -63,9 +63,10 @@ I'm tracking my progress daily and updating the problems I solve.
 
 ## **Searching**
 
-| Date       | Problems Solved                                               |
-| ---------- | ------------------------------------------------------------- |
-| 2024-12-22 | - [Number Of Occurrence](./Searching/NumberOfOccurrence.java) |
+| Date       | Problems Solved                                                          |
+| ---------- | ------------------------------------------------------------------------ |
+| 2024-12-27 | - [Number Of Occurrence](./Searching/NumberOfOccurrence.java)            |
+| 2024-12-27 | - [Sorted and Rotated Minimum](./Searching/SortedAndRotatedMinimum.java) |
 
 ## **How to Run the Solutions**
 
