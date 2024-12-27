@@ -61,6 +61,12 @@ I'm tracking my progress daily and updating the problems I solve.
 | 2024-12-27 | - [Form the Largest Number](./Sorting/BonusProblems/FormtheLargestNumber.java)       |
 | 2024-12-27 | - [Make Array Elements Unique](./Sorting/BonusProblems/MakeArrayElementsUnique.java) |
 
+## **Searching**
+
+| Date       | Problems Solved                                               |
+| ---------- | ------------------------------------------------------------- |
+| 2024-12-22 | - [Number Of Occurrence](./Searching/NumberOfOccurrence.java) |
+
 ## **How to Run the Solutions**
 
 1. Clone the repository:
