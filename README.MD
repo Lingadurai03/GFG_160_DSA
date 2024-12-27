@@ -63,10 +63,11 @@ I'm tracking my progress daily and updating the problems I solve.
 
 ## **Searching**
 
-| Date       | Problems Solved                                                          |
-| ---------- | ------------------------------------------------------------------------ |
-| 2024-12-27 | - [Number Of Occurrence](./Searching/NumberOfOccurrence.java)            |
-| 2024-12-27 | - [Sorted and Rotated Minimum](./Searching/SortedAndRotatedMinimum.java) |
+| Date       | Problems Solved                                                                 |
+| ---------- | ------------------------------------------------------------------------------- |
+| 2024-12-27 | - [Number Of Occurrence](./Searching/NumberOfOccurrence.java)                   |
+| 2024-12-27 | - [Sorted and Rotated Minimum](./Searching/SortedAndRotatedMinimum.java)        |
+| 2024-12-27 | - [Search In Rotated Sorted Array](./Searching/SearchInRotatedSortedArray.java) |
 
 ## **How to Run the Solutions**
 
