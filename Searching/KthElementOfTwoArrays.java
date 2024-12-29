@@ -20,10 +20,10 @@ package Searching;
 
 public class KthElementOfTwoArrays {
     public static void main(String[] args) {
-        int[] arr1 = { 100, 112, 256, 349, 770 };
-        int[] arr2 = { 72, 86, 113, 119, 265, 445, 892 };
+        int[] arr1 = { 2, 3, 6, 7, 9 };
+        int[] arr2 = { 1, 4, 8, 10 };
 
-        int k = 7;
+        int k = 5;
 
         KthElementOfTwoArrays kth = new KthElementOfTwoArrays();
         System.out.println(kth.findK(arr1, arr2, k));
@@ -59,31 +59,33 @@ public class KthElementOfTwoArrays {
     public int findK(int[] a, int[] b, int k) {
         int n = a.length, m = b.length;
 
-        if (n > m)
+        if (n > m) {
             return findK(b, a, k);
+        }
 
-        int lo = Math.max(0, k - m), hi = Math.min(k, n);
+        int low = Math.max(0, k - m);
+        int high = Math.min(k, m);
 
-        while (lo <= hi) {
-            int mid1 = (lo + hi) / 2;
-            int mid2 = k - mid1;
+        while (low <= high) {
+            int mid1 = low + (high - low) / 2;
+            int mid2 = k - m;
 
-            int l1 = (mid1 == 0 ? Integer.MIN_VALUE : a[mid1 - 1]);
-            int r1 = (mid1 == n ? Integer.MAX_VALUE : a[mid1]);
+            int l1 = mid1 == 0 ? Integer.MIN_VALUE : a[mid1 - 1];
+            int r1 = mid1 == n ? Integer.MAX_VALUE : a[mid1];
 
-            int l2 = (mid2 == 0 ? Integer.MIN_VALUE : b[mid2 - 1]);
-            int r2 = (mid2 == m ? Integer.MAX_VALUE : b[mid2]);
+            int l2 = mid2 == 0 ? Integer.MIN_VALUE : b[mid2 - 1];
+            int r2 = mid2 == m ? Integer.MAX_VALUE : b[mid2];
 
             if (l1 <= r2 && l2 <= r1) {
-
                 return Math.max(l1, l2);
             }
 
-            if (l1 > r2)
-                hi = mid1 - 1;
+            if (l1 > r2) {
+                high = mid1 - 1;
+            } else {
+                low = mid1 + 1;
+            }
 
-            else
-                lo = mid1 + 1;
         }
 
         return 0;
