@@ -70,6 +70,7 @@ I'm tracking my progress daily and updating the problems I solve.
 | 2024-12-27 | - [Search In Rotated Sorted Array](./Searching/SearchInRotatedSortedArray.java) |
 | 2024-12-27 | - [Peak Element](./Searching/PeakElement.java)                                  |
 | 2024-12-28 | - [Kth Element Of Two Arrays](./Searching/KthElementOfTwoArrays.java)           |
+| 2024-12-29 | - [Aggressive Cows](./Searching/AggressiveCows.java)                            |
 
 ## **How to Run the Solutions**
 

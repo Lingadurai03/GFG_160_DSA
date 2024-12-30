@@ -76,6 +76,12 @@ public class KthElementOfTwoArrays {
             int l2 = mid2 == 0 ? Integer.MIN_VALUE : b[mid2 - 1];
             int r2 = mid2 == m ? Integer.MAX_VALUE : b[mid2];
 
+            // int l1 = (mid1 == 0) ? Integer.MIN_VALUE : a[mid1 - 1];
+            // int r1 = (mid1 == n) ? Integer.MAX_VALUE : a[mid1];
+
+            // int l2 = (mid2 == 0) ? Integer.MIN_VALUE : b[mid2 - 1];
+            // int r2 = (mid2 == m) ? Integer.MAX_VALUE : b[mid2];
+
             if (l1 <= r2 && l2 <= r1) {
                 return Math.max(l1, l2);
             }
