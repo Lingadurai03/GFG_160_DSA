@@ -74,6 +74,7 @@ I'm tracking my progress daily and updating the problems I solve.
 | 2024-12-30 | - [Allocate Minimum Pages](./Searching/AllocateMinimumPages.java)                                  |
 | 2024-12-30 | - [Kth Missing Positive Number Sorted Array](./Searching/KthMissingPositiveNumberSortedArray.java) |
 | 2025-01-04 | - [Implement Lower Bound](./Searching/BonusProblems/ImplementLowerBound.java)                      |
+| 2025-01-04 | - [Bitonic Point](./Searching/BonusProblems/BitonicPoint.java)                                     |
 
 ## **How to Run the Solutions**
 
