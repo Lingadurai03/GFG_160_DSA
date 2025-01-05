@@ -63,18 +63,19 @@ I'm tracking my progress daily and updating the problems I solve.
 
 ## **Searching**
 
-| Date       | Problems Solved                                                                                    |
-| ---------- | -------------------------------------------------------------------------------------------------- |
-| 2024-12-27 | - [Number Of Occurrence](./Searching/NumberOfOccurrence.java)                                      |
-| 2024-12-27 | - [Sorted and Rotated Minimum](./Searching/SortedAndRotatedMinimum.java)                           |
-| 2024-12-27 | - [Search In Rotated Sorted Array](./Searching/SearchInRotatedSortedArray.java)                    |
-| 2024-12-27 | - [Peak Element](./Searching/PeakElement.java)                                                     |
-| 2024-12-28 | - [Kth Element Of Two Arrays](./Searching/KthElementOfTwoArrays.java)                              |
-| 2024-12-29 | - [Aggressive Cows](./Searching/AggressiveCows.java)                                               |
-| 2024-12-30 | - [Allocate Minimum Pages](./Searching/AllocateMinimumPages.java)                                  |
-| 2024-12-30 | - [Kth Missing Positive Number Sorted Array](./Searching/KthMissingPositiveNumberSortedArray.java) |
-| 2025-01-04 | - [Implement Lower Bound](./Searching/BonusProblems/ImplementLowerBound.java)                      |
-| 2025-01-04 | - [Bitonic Point](./Searching/BonusProblems/BitonicPoint.java)                                     |
+| Date       | Problems Solved                                                                                                       |
+| ---------- | --------------------------------------------------------------------------------------------------------------------- |
+| 2024-12-27 | - [Number Of Occurrence](./Searching/NumberOfOccurrence.java)                                                         |
+| 2024-12-27 | - [Sorted and Rotated Minimum](./Searching/SortedAndRotatedMinimum.java)                                              |
+| 2024-12-27 | - [Search In Rotated Sorted Array](./Searching/SearchInRotatedSortedArray.java)                                       |
+| 2024-12-27 | - [Peak Element](./Searching/PeakElement.java)                                                                        |
+| 2024-12-28 | - [Kth Element Of Two Arrays](./Searching/KthElementOfTwoArrays.java)                                                 |
+| 2024-12-29 | - [Aggressive Cows](./Searching/AggressiveCows.java)                                                                  |
+| 2024-12-30 | - [Allocate Minimum Pages](./Searching/AllocateMinimumPages.java)                                                     |
+| 2024-12-30 | - [Kth Missing Positive Number Sorted Array](./Searching/KthMissingPositiveNumberSortedArray.java)                    |
+| 2025-01-04 | - [Implement Lower Bound](./Searching/BonusProblems/ImplementLowerBound.java)                                         |
+| 2025-01-04 | - [Bitonic Point](./Searching/BonusProblems/BitonicPoint.java)                                                        |
+| 2025-01-04 | - [MedianOf 2 Sorted Arrays Of Different Sizes](./Searching/BonusProblems/MedianOf2SortedArraysOfDifferentSizes.java) |
 
 ## **How to Run the Solutions**
 
