@@ -76,6 +76,7 @@ I'm tracking my progress daily and updating the problems I solve.
 | 2025-01-04 | - [Implement Lower Bound](./Searching/BonusProblems/ImplementLowerBound.java)                                         |
 | 2025-01-04 | - [Bitonic Point](./Searching/BonusProblems/BitonicPoint.java)                                                        |
 | 2025-01-04 | - [MedianOf 2 Sorted Arrays Of Different Sizes](./Searching/BonusProblems/MedianOf2SortedArraysOfDifferentSizes.java) |
+| 2025-01-05 | - [Square Root](./Searching/BonusProblems/SquareRoot.java)                                                            |
 
 ## **How to Run the Solutions**
 
