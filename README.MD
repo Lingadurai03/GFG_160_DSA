@@ -78,6 +78,7 @@ I'm tracking my progress daily and updating the problems I solve.
 | 2025-01-04 | - [MedianOf 2 Sorted Arrays Of Different Sizes](./Searching/BonusProblems/MedianOf2SortedArraysOfDifferentSizes.java) |
 | 2025-01-05 | - [Square Root](./Searching/BonusProblems/SquareRoot.java)                                                            |
 | 2025-01-05 | - [Koko Eating Bananas](./Searching/BonusProblems/KokoEatingBananas.java)                                             |
+| 2025-01-05 | - [MinimumDays To Make M bouquets](./Searching/BonusProblems/MinimumDaysToMakeMbouquets.java)                         |
 
 ## **How to Run the Solutions**
 
